@@ -3,7 +3,9 @@
 # How to read my files
 
 You can find EDA in the file: "Part_1_EDA"
+
 All the models have been created from the file: "Part_2_Machine_Learning"
+
 Final models are saved in the folder "Model" and the associated predictions can be found in the folder "Predictions"
 
 =======
