@@ -1,0 +1,6 @@
+Models/catboost_info
+Models/DecisionTree_RandomForest
+Models/Linear_Regression
+Models/Others
+results.xlsx
+consignes.ipynb
