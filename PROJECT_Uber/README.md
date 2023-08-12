@@ -2,7 +2,7 @@
 
 # How to read my files
 
-All analysis made on the file: **<u>main.ipynb</u>**
+All analysis made on the file: **"main.ipynb"**
 
 Please dowload the two html files in the folders /pictures to watch animated graphs
 
