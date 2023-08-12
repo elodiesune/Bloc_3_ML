@@ -1,3 +1,12 @@
+=======
+
+# How to read my files
+
+All analysis made on the file: **main.ipynb**
+
+=======
+
+
 # Walmart : predict weekly sales
 
 ## Company's Description 📇
