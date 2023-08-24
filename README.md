@@ -8,6 +8,6 @@ In this block, you will find 3 projects:
 - **Uber** (Non supervised Machine Learning)
 - **Walmart** (Supervised Machine Learning)
 
-Link for my **video presentation** : ***********************
+Link for my **video presentation** : https://share.vidyard.com/watch/F28QLofHXKKS5vNVNsfpvE?
 
 =======
